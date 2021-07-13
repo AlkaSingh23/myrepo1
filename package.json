@@ -1,0 +1,24 @@
+{
+  "name": "gittest",
+  "version": "1.0.0",
+  "description": "learning node js",
+  "main": "\u001b[3~\u001b[3~\u001b[3~\u001b.html",
+  "scripts": {
+   "start" : "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "lite" : "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlkaSingh23/myrepo1.git"
+  },
+  "author": "Alka Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlkaSingh23/myrepo1/issues"
+  },
+  "homepage": "https://github.com/AlkaSingh23/myrepo1#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
